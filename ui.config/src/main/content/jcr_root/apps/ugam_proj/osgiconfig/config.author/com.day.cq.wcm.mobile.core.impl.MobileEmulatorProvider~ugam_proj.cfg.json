@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "ugam_proj/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}
